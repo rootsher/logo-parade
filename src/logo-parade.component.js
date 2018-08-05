@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class LogoParade extends Component {
 	state = {
 		list: [],
-		run: false,
+		run: true,
 	};
 
 	componentDidMount() {

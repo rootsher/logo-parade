@@ -1,6 +1,6 @@
 {
   "name": "logo-parade",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "simple logo parade component - with react and zero dependencies",
   "main": "index.js",
   "directories": {

@@ -1,0 +1,33 @@
+{
+  "name": "logo-parade",
+  "version": "1.0.0",
+  "description": "simple logo parade component - with react and zero dependencies",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootsher/logo-parade.git"
+  },
+  "keywords": [
+    "logo",
+    "parade",
+    "infinity",
+    "logo",
+    "loop"
+  ],
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rootsher/logo-parade/issues"
+  },
+  "homepage": "https://github.com/rootsher/logo-parade#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
